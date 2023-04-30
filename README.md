@@ -1,6 +1,6 @@
 # Pokedex in React
 
-### This is a pokédex created using React and Vite
+### This is a pokedex created using React and Vite
 
 * in this app I used the components concept for make cards of three pokemons;
 * these cards are composed of two informations: their names and pictures;
